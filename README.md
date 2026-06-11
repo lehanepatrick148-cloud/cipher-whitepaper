@@ -1,5 +1,3 @@
-Here it is — copy and paste this straight into the README.md file on GitHub:
-
 # Cipher (CPHR)
 ### A peer to peer currency for humans and artificial intelligence agents
 
